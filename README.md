@@ -1,3 +1,11 @@
+Utwórz komponent klasowy Counter, który będzie ustawiał domyślny stan komponentu na następujący:
+
+this.state = { ticks: 0 };
+
+Następnie stwórz w nim przycisk, który wywoła funkcję “incrementTicks”, która za każdym wywołaniem zwiększa właściwość “ticks” o 1. 
+
+Twoim zadaniem jest sprawić aby tekst w przycisku był zawsze równy wartości this.state.ticks
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
