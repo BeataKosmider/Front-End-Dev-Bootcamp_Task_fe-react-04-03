@@ -1,3 +1,5 @@
+# Task performed during Front-End Developer Bootcamp
+
 Utwórz komponent klasowy Counter, który będzie ustawiał domyślny stan komponentu na następujący:
 
 this.state = { ticks: 0 };
